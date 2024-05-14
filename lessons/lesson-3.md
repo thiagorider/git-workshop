@@ -1,4 +1,4 @@
-# Aula 2 (add, diff, commit, push)
+# Aula 3 (add, diff, commit, push)
 
 Nessa aula iremos aprender os comandos básicos de escrita do git, são eles: `add`, `commit` e `push`.
 
